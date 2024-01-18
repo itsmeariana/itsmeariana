@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&color=414141&background=FFFFFF00&vCenter=true&lines=%F0%9F%91%8B+Hello+World!!;%E2%98%95+My+name+is+Ariana+Martins+;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 # 💫 About Me:
-Currently, I am a student of HTML, CSS and Javascript. My name is Ariana Silva, I'm 29 years old, I was born and now I live in Rio de Janeiro.
+Currently, I am a student of HTML, CSS and Javascript. My name is Ariana Martins, I'm 29 years old, I was born and now I live in Rio de Janeiro.
   I study to become a Full-Stack Developer capable of solving any problem that comes my way and helping other people who need help solving their problems.
 
 
