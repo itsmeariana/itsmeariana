@@ -7,7 +7,7 @@ Currently, I am a student of HTML, CSS and Javascript. My name is Ariana Martins
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/martins__ari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souarianasilva) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https:) [![wakatime](https://wakatime.com/badge/user/bbd7934c-a4c4-4b31-b008-4c6c2dd2da70.svg)](https:)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/martins__ari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmeariana) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https:) [![wakatime](https://wakatime.com/badge/user/bbd7934c-a4c4-4b31-b008-4c6c2dd2da70.svg)](https:)
 
 # 💻 Tech Stack:
 [![HTML5](https://img.shields.io/badge/html5-orange?style=flat-square&logo=html5&logoColor=white)](#) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-gray?style=flat-square&logo=javascript&logoColor=yellow) 
